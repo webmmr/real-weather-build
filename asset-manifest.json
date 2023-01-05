@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c53bb38.css",
+    "main.js": "/static/js/main.900dc3be.js",
+    "static/media/cloudy.png": "/static/media/cloudy.78f6282b4ab832105c6a.png",
+    "static/media/heavy_rain.png": "/static/media/heavy_rain.b5ffc6b2b8de513ea69d.png",
+    "static/media/sunny.png": "/static/media/sunny.fb6a98ca4211ce434ed6.png",
+    "static/media/ice_palette.png": "/static/media/ice_palette.9e404426f92e00f83b58.png",
+    "static/media/light_snow.png": "/static/media/light_snow.692f3daf5ba2d5fa5d0f.png",
+    "static/media/light_rain.png": "/static/media/light_rain.eb02f2975c4c4bb39f0c.png",
+    "static/media/thunder.png": "/static/media/thunder.5ac27a512f242cb4b928.png",
+    "static/media/heavy_snow.png": "/static/media/heavy_snow.67d394c13ffdeff74c42.png",
+    "static/media/thunder_snow.png": "/static/media/thunder_snow.2d3655616ad2a1c205ac.png",
+    "static/media/clear_night.png": "/static/media/clear_night.ac89478144ea5eecfa07.png",
+    "static/media/thunder_rain.png": "/static/media/thunder_rain.30685da5b12ce9494814.png",
+    "static/media/mist.png": "/static/media/mist.764219b3b439845de5c6.png",
+    "static/media/overcast.jpg": "/static/media/overcast.94e6390a37e7c217d1a7.jpg",
+    "index.html": "/index.html",
+    "main.0c53bb38.css.map": "/static/css/main.0c53bb38.css.map",
+    "main.900dc3be.js.map": "/static/js/main.900dc3be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c53bb38.css",
+    "static/js/main.900dc3be.js"
+  ]
+}
